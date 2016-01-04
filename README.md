@@ -19,7 +19,7 @@ npm i -g codigo-postal-cli
 ```bash
 codigo-postal
 
-Usage: codigo-postal [options]
+Usage: codigo-postal -a <calle> -n <numero> -c <comuna>
 
 CLI para obtener el Código Postal
 
@@ -30,6 +30,7 @@ Options:
   -a, --calle [calle]    Agregar calle
   -n, --numero [numero]  Agregar numero
   -c, --comuna [comuna]  Agregar comuna
+  -x, --copy             Copiar al portapapeles
 ```
 
 ## Example
