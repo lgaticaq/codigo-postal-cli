@@ -36,5 +36,5 @@ Options:
 ## Example
 
 ```bash
-codigo-postal -a "avenida siempre viva" -n 742 -c springfield
+codigo-postal -a "avenida siempre viva" -n 742 -c springfield -x
 ```
