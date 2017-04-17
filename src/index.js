@@ -4,7 +4,7 @@
 
 const program = require('commander');
 const codigoPostal = require('codigo-postal');
-const ncp = require('copy-paste');
+const clipboardy = require('clipboardy');
 const pkg = require('../package.json');
 const updateNotifier = require('update-notifier');
 const chalk = require('chalk');
@@ -33,10 +33,12 @@ if (program.calle && program.numero && program.comuna) {
     console.log(chalk.green(`Número: ${result.number}`));
     console.log(chalk.green(`Comuna: ${result.commune}`));
     if (program.copy) {
-      ncp.copy(result.zip.toString());
-      process.exit(0);
+      return clipboardy.write(result.zip.toString())
+    } else {
+      return Promise.resolve();
     }
-  }).catch(() => console.log(chalk.red('Código Postal no encontrado')));
+  }).then(() => process.exit(0))
+  .catch(() => console.log(chalk.red('Código Postal no encontrado')));
 } else {
   program.help();
 }
