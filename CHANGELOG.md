@@ -1,3 +1,23 @@
+#### 2.0.2 (2017-4-17)
+
+##### Chores
+
+* **package:**
+  * Upgrade update-notifier to version 2.1.0 ([bd169508](https://github.com/lgaticaq/codigo-postal-cli/commit/bd16950842548e04f17419ef515746ed7c69f591))
+  * Upgrade eslint to version 3.19.0 ([cdd0a59d](https://github.com/lgaticaq/codigo-postal-cli/commit/cdd0a59d4ad9ceab1c6684f07e8f13d8ed9ce0db))
+  * update eslint to version 3.15.0 ([13f96e56](https://github.com/lgaticaq/codigo-postal-cli/commit/13f96e56072b638aed1f5942a157d10cee82e01f))
+  * Update eslint to v3.14.1 ([af6827d6](https://github.com/lgaticaq/codigo-postal-cli/commit/af6827d69382e6ac8d2a0869318f4849a8244b31))
+
+##### Documentation Changes
+
+* **LICENSE:** Update year ([5689140a](https://github.com/lgaticaq/codigo-postal-cli/commit/5689140abfeeafbab84031e4945470ae80092a84))
+
+##### Bug Fixes
+
+* **linter:** Add semicolon ([561c3160](https://github.com/lgaticaq/codigo-postal-cli/commit/561c3160d21c0ff52a15279f374302b93e5eff0d))
+* **vulnerability:** Replace copy-paste to clipboardy ([013b259b](https://github.com/lgaticaq/codigo-postal-cli/commit/013b259bbf0eed168ce1d7b988c8498935822fb5))
+* **package:** update update-notifier to version 2.0.0 ([57133c6a](https://github.com/lgaticaq/codigo-postal-cli/commit/57133c6acaf144bb98812b58480ae95670436f28))
+
 #### 2.0.1 (2016-12-18)
 
 ##### Chores
