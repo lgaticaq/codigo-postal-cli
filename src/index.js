@@ -33,7 +33,7 @@ if (program.calle && program.numero && program.comuna) {
     console.log(chalk.green(`Número: ${result.number}`));
     console.log(chalk.green(`Comuna: ${result.commune}`));
     if (program.copy) {
-      return clipboardy.write(result.zip.toString())
+      return clipboardy.write(result.zip.toString());
     } else {
       return Promise.resolve();
     }
