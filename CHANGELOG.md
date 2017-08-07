@@ -1,3 +1,26 @@
+#### 2.0.3 (2017-08-07)
+
+##### Chores
+
+* **nvm:** update node to v8 ([60bc0923](https://github.com/lgaticaq/codigo-postal-cli/commit/60bc09235dd482004199c444db5025c566d63c50))
+* **npm:** update ignored ([64b56119](https://github.com/lgaticaq/codigo-postal-cli/commit/64b56119955e75c6d1cecb57d7126e86b1ee2ff0))
+* **travis:** enable travis ([924c4926](https://github.com/lgaticaq/codigo-postal-cli/commit/924c49265037c0117d5feaf3ab5a5263731fc946))
+* **src:**
+  * add tests ([0842a04f](https://github.com/lgaticaq/codigo-postal-cli/commit/0842a04ffd316d8cc98f91b8ee00bf054fbf2270))
+  * refactor code ([99826675](https://github.com/lgaticaq/codigo-postal-cli/commit/9982667514c9efc9803f612e96713ade4abf5aaf))
+* **package:**
+  * remove yarn ([6620c45b](https://github.com/lgaticaq/codigo-postal-cli/commit/6620c45b794ae4e233bde7397443090b09426f3e))
+  * update dependencies ([d051ad17](https://github.com/lgaticaq/codigo-postal-cli/commit/d051ad17b09a8aa007cdb44c40a15894e230bfdf))
+  * update eslint to version 4.0.0 ([8570f84e](https://github.com/lgaticaq/codigo-postal-cli/commit/8570f84ece7056c5746959d8e910ca1de98a5042))
+
+##### Documentation Changes
+
+* **readme:** add new badges ([37a24b06](https://github.com/lgaticaq/codigo-postal-cli/commit/37a24b066d6458cb8d5275c613aa55ffdd218436))
+
+##### Bug Fixes
+
+* **package:** update chalk to version 2.0.0 ([0d798b87](https://github.com/lgaticaq/codigo-postal-cli/commit/0d798b8768acb3d382175bf20b4000667dd2785b))
+
 #### 2.0.2 (2017-4-17)
 
 ##### Chores
