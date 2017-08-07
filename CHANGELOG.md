@@ -1,3 +1,9 @@
+#### 2.0.4 (2017-08-07)
+
+##### Chores
+
+* **package:** update dependencies ([91ceb6db](https://github.com/lgaticaq/codigo-postal-cli/commit/91ceb6db455b248f1975e8945af9656373296f81))
+
 #### 2.0.3 (2017-08-07)
 
 ##### Chores
