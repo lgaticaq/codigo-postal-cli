@@ -40,7 +40,7 @@
   "dependencies": {
     "chalk": "^2.0.1",
     "clipboardy": "^1.1.4",
-    "codigo-postal": "^2.0.3",
+    "codigo-postal": "^2.0.4",
     "commander": "^2.11.0",
     "update-notifier": "^2.2.0"
   },
@@ -63,7 +63,6 @@
   "eslintConfig": {
     "extends": "standard",
     "env": {
-      "node": true,
       "mocha": true
     },
     "rules": {
