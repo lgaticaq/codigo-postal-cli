@@ -38,7 +38,7 @@
   },
   "homepage": "https://github.com/lgaticaq/codigo-postal-cli#readme",
   "dependencies": {
-    "chalk": "^2.0.1",
+    "chalk": "^2.0.0",
     "clipboardy": "^1.1.4",
     "codigo-postal": "^2.0.4",
     "commander": "^2.11.0",
