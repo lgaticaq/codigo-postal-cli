@@ -6,6 +6,7 @@
   "scripts": {
     "lint": "eslint --fix .",
     "format": "prettier-standard 'src/**/*.js' 'test/**/*.js'",
+    "commit": "commit",
     "precommit": "lint-staged",
     "pretest": "npm run lint -s && npm run format -s",
     "test": "istanbul cover _mocha",
@@ -45,6 +46,9 @@
     "update-notifier": "^2.2.0"
   },
   "devDependencies": {
+    "@commitlint/cli": "7.1.2",
+    "@commitlint/config-conventional": "7.1.2",
+    "@commitlint/prompt-cli": "7.1.2",
     "chai": "4.1.2",
     "eslint": "5.6.0",
     "eslint-config-standard": "12.0.0",
@@ -84,6 +88,11 @@
       "eslint --fix",
       "prettier-standard",
       "git add"
+    ]
+  },
+  "commitlint": {
+    "extends": [
+      "@commitlint/config-conventional"
     ]
   }
 }
