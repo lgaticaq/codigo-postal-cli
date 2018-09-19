@@ -38,11 +38,11 @@
   },
   "homepage": "https://github.com/lgaticaq/codigo-postal-cli#readme",
   "dependencies": {
-    "chalk": "^2.0.1",
-    "clipboardy": "^1.1.4",
-    "codigo-postal": "^2.0.4",
-    "commander": "^2.11.0",
-    "update-notifier": "^2.2.0"
+    "chalk": "2.4.1",
+    "clipboardy": "1.2.3",
+    "codigo-postal": "2.0.5",
+    "commander": "2.18.0",
+    "update-notifier": "2.5.0"
   },
   "devDependencies": {
     "@commitlint/cli": "7.1.2",
