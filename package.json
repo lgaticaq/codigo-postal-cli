@@ -103,6 +103,12 @@
       "@commitlint/config-conventional"
     ]
   },
+  "renovate": {
+    "automerge": "minor",
+    "extends": [
+      "config:base"
+    ]
+  },
   "release": {
     "extends": "npm-github-config"
   }
