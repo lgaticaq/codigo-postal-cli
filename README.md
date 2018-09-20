@@ -1,12 +1,12 @@
 # codigo-postal-cli
 
-[![npm version](https://img.shields.io/npm/v/codigo-postal-cli.svg?style=flat-square)](https://www.npmjs.com/package/codigo-postal-cli)
-[![npm downloads](https://img.shields.io/npm/dm/codigo-postal-cli.svg?style=flat-square)](https://www.npmjs.com/package/codigo-postal-cli)
-[![Build Status](https://img.shields.io/travis/lgaticaq/codigo-postal-cli.svg?style=flat-square)](https://travis-ci.org/lgaticaq/codigo-postal-cli)
-[![Coverage Status](https://img.shields.io/coveralls/lgaticaq/codigo-postal-cli/master.svg?style=flat-square)](https://coveralls.io/github/lgaticaq/codigo-postal-cli?branch=master)
-[![Code Climate](https://img.shields.io/codeclimate/github/lgaticaq/codigo-postal-cli.svg?style=flat-square)](https://codeclimate.com/github/lgaticaq/codigo-postal-cli)
-[![dependency Status](https://img.shields.io/david/lgaticaq/codigo-postal-cli.svg?style=flat-square)](https://david-dm.org/lgaticaq/codigo-postal-cli#info=dependencies)
-[![devDependency Status](https://img.shields.io/david/dev/lgaticaq/codigo-postal-cli.svg?style=flat-square)](https://david-dm.org/lgaticaq/codigo-postal-cli#info=devDependencies)
+[![npm version](https://img.shields.io/npm/v/codigo-postal-cli.svg)](https://www.npmjs.com/package/codigo-postal-cli)
+[![npm downloads](https://img.shields.io/npm/dm/codigo-postal-cli.svg)](https://www.npmjs.com/package/codigo-postal-cli)
+[![Build Status](https://img.shields.io/travis/lgaticaq/codigo-postal-cli.svg)](https://travis-ci.org/lgaticaq/codigo-postal-cli)
+[![Coverage Status](https://img.shields.io/coveralls/lgaticaq/codigo-postal-cli/master.svg)](https://coveralls.io/github/lgaticaq/codigo-postal-cli?branch=master)
+[![Maintainability](https://api.codeclimate.com/v1/badges/b74ea9471991e49c144c/maintainability)](https://codeclimate.com/github/lgaticaq/codigo-postal-cli/maintainability)
+[![dependency Status](https://img.shields.io/david/lgaticaq/codigo-postal-cli.svg)](https://david-dm.org/lgaticaq/codigo-postal-cli#info=dependencies)
+[![devDependency Status](https://img.shields.io/david/dev/lgaticaq/codigo-postal-cli.svg)](https://david-dm.org/lgaticaq/codigo-postal-cli#info=devDependencies)
 
 > Get postal code from Correos de Chile CLI
 
