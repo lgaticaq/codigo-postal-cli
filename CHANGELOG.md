@@ -1,3 +1,15 @@
+# [3.0.0](https://github.com/lgaticaq/codigo-postal-cli/compare/v2.0.4...v3.0.0) (2018-09-20)
+
+
+### chore
+
+* **node:** update min node version to v8 ([b49a879](https://github.com/lgaticaq/codigo-postal-cli/commit/b49a879))
+
+
+### BREAKING CHANGES
+
+* **node:** set min node version to v8
+
 #### 2.0.4 (2017-08-07)
 
 ##### Chores
@@ -86,4 +98,3 @@
 ##### Documentation Changes
 
 * **README:** Update badges ([5c827e9d](https://github.com/lgaticaq/codigo-postal-cli/commit/5c827e9d507894513c09d55735df2cbc6082591a))
-
