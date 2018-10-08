@@ -40,7 +40,7 @@
     "chalk": "2.4.1",
     "clipboardy": "1.2.3",
     "codigo-postal": "2.0.5",
-    "commander": "2.18.0",
+    "commander": "2.19.0",
     "update-notifier": "2.5.0"
   },
   "devDependencies": {
