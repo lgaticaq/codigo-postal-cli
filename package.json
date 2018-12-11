@@ -61,7 +61,7 @@
     "npm-github-config": "1.0.0",
     "prettier-standard": "8.0.1",
     "proxyquire": "2.1.0",
-    "semantic-release": "15.12.4",
+    "semantic-release": "15.12.5",
     "travis-deploy-once": "5.0.9"
   },
   "eslintConfig": {
