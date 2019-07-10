@@ -1,3 +1,10 @@
+## [3.0.4](https://github.com/lgaticaq/codigo-postal-cli/compare/v3.0.3...v3.0.4) (2019-07-10)
+
+
+### Bug Fixes
+
+* **deps:** update dependency codigo-postal to v2.0.6 ([ffaf701](https://github.com/lgaticaq/codigo-postal-cli/commit/ffaf701))
+
 ## [3.0.3](https://github.com/lgaticaq/codigo-postal-cli/compare/v3.0.2...v3.0.3) (2019-04-03)
 
 
