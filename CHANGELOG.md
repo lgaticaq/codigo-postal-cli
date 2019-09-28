@@ -1,3 +1,10 @@
+## [3.0.5](https://github.com/lgaticaq/codigo-postal-cli/compare/v3.0.4...v3.0.5) (2019-09-28)
+
+
+### Bug Fixes
+
+* **deps:** update dependency commander to v2.20.1 ([e2d65c5](https://github.com/lgaticaq/codigo-postal-cli/commit/e2d65c5))
+
 ## [3.0.4](https://github.com/lgaticaq/codigo-postal-cli/compare/v3.0.3...v3.0.4) (2019-07-10)
 
 

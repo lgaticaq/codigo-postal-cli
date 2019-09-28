@@ -1,6 +1,6 @@
 {
   "name": "codigo-postal-cli",
-  "version": "3.0.4",
+  "version": "3.0.5",
   "description": "Get postal code from Correos de Chile CLI",
   "main": "src",
   "scripts": {
