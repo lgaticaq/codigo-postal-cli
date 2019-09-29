@@ -41,7 +41,7 @@
     "clipboardy": "2.1.0",
     "codigo-postal": "2.0.6",
     "commander": "2.20.1",
-    "update-notifier": "2.5.0"
+    "update-notifier": "3.0.1"
   },
   "devDependencies": {
     "@commitlint/cli": "8.2.0",
