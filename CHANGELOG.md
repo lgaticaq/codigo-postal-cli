@@ -1,3 +1,13 @@
+## [3.0.6](https://github.com/lgaticaq/codigo-postal-cli/compare/v3.0.5...v3.0.6) (2019-10-08)
+
+
+### Bug Fixes
+
+* **deps:** update dependency clipboardy to v2 ([e931e54](https://github.com/lgaticaq/codigo-postal-cli/commit/e931e54))
+* **deps:** update dependency codigo-postal to v2.0.7 ([a5d8757](https://github.com/lgaticaq/codigo-postal-cli/commit/a5d8757))
+* **deps:** update dependency commander to v3 ([59a1c54](https://github.com/lgaticaq/codigo-postal-cli/commit/59a1c54))
+* **deps:** update dependency update-notifier to v3 ([fba16db](https://github.com/lgaticaq/codigo-postal-cli/commit/fba16db))
+
 ## [3.0.5](https://github.com/lgaticaq/codigo-postal-cli/compare/v3.0.4...v3.0.5) (2019-09-28)
 
 
