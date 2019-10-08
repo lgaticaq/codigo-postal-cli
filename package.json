@@ -10,7 +10,9 @@
     "pretest": "npm run lint -s && npm run format -s",
     "test": "istanbul cover _mocha",
     "semantic-release": "semantic-release",
-    "travis-deploy-once": "travis-deploy-once"
+    "travis-deploy-once": "travis-deploy-once",
+    "snyk-protect": "snyk protect",
+    "prepare": "npm run snyk-protect"
   },
   "engines": {
     "node": ">=8"
@@ -41,7 +43,8 @@
     "clipboardy": "2.1.0",
     "codigo-postal": "2.0.6",
     "commander": "2.20.1",
-    "update-notifier": "2.5.0"
+    "update-notifier": "2.5.0",
+    "snyk": "^1.232.0"
   },
   "devDependencies": {
     "@commitlint/cli": "8.2.0",
@@ -111,5 +114,6 @@
   },
   "release": {
     "extends": "npm-github-config"
-  }
+  },
+  "snyk": true
 }
