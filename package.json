@@ -35,7 +35,7 @@
   "dependencies": {
     "chalk": "2.4.2",
     "clipboardy": "2.1.0",
-    "codigo-postal": "2.0.6",
+    "codigo-postal": "2.0.7",
     "commander": "3.0.2",
     "update-notifier": "3.0.1"
   },
