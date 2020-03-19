@@ -1,3 +1,10 @@
+## [3.0.8](https://github.com/lgaticaq/codigo-postal-cli/compare/v3.0.7...v3.0.8) (2020-03-19)
+
+
+### Bug Fixes
+
+* **deps:** update dependency clipboardy to v2.3.0 ([e5ada7d](https://github.com/lgaticaq/codigo-postal-cli/commit/e5ada7d79d3e034ad4073490a98a5c7d53c69fbd))
+
 ## [3.0.7](https://github.com/lgaticaq/codigo-postal-cli/compare/v3.0.6...v3.0.7) (2020-02-12)
 
 
