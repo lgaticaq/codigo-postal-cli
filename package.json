@@ -40,7 +40,7 @@
     "update-notifier": "3.0.1"
   },
   "devDependencies": {
-    "@commitlint/cli": "8.3.5",
+    "@commitlint/cli": "8.3.6",
     "@commitlint/config-conventional": "8.3.4",
     "@semantic-release/changelog": "3.0.6",
     "@semantic-release/git": "7.0.18",
